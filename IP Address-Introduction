@@ -1,0 +1,23 @@
+IP address allows one computer to communicate with another via the Internet. It provides a unique identity to billions of digital devices that are connected to the Internet.
+
+ 
+
+IP stands for “Internet Protocol“. So, IP Address is an Internet Protocol Address that is used to uniquely identify a device on the network. This is only because of this Address that two-way communication is possible on the network.
+
+ 
+
+This address is also known as Logical Address. It is a core component on which the networking architecture is built; no network exists without it.
+
+ 
+
+Basically, it is divided into 2 parts:
+
+The network part specifies which networks this address belongs to and
+The host part further pinpoints the exact location
+ 
+
+Why we Need it?
+This address provides an identity to a device. Just like we have home or business address supplying that specific physical location with an identifiable address, similarly devices on the network are differentiated from one another through IP Address.
+
+For Example: Whenever we want to place a call, we need Phone number of the other person. In the same way, we need Internet Protocol Address
+
